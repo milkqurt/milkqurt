@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="" target="_blank">Dias</a> 
+
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Java Developer</h2>
 <h3 align="center">Technology stack</h3>
